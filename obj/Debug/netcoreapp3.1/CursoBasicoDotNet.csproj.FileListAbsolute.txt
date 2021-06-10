@@ -1,0 +1,13 @@
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\bin\Debug\netcoreapp3.1\CursoBasicoDotNet.exe
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\bin\Debug\netcoreapp3.1\CursoBasicoDotNet.deps.json
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\bin\Debug\netcoreapp3.1\CursoBasicoDotNet.runtimeconfig.json
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\bin\Debug\netcoreapp3.1\CursoBasicoDotNet.runtimeconfig.dev.json
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\bin\Debug\netcoreapp3.1\CursoBasicoDotNet.dll
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\bin\Debug\netcoreapp3.1\CursoBasicoDotNet.pdb
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.csprojAssemblyReference.cache
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.AssemblyInfoInputs.cache
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.AssemblyInfo.cs
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.csproj.CoreCompileInputs.cache
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.dll
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.pdb
+D:\cesar\Escritorio\CURSOS\.NET\CursoBásicoDotNet\CursoBasicoDotNet\obj\Debug\netcoreapp3.1\CursoBasicoDotNet.genruntimeconfig.cache
