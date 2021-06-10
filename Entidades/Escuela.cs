@@ -1,22 +1,30 @@
 namespace CoreEscuela.Entidades{
 
-    class Escuala
+    class Escuela
     {
+
         //Formas de crear variables y de encapsular
             //forma 1
-        string nombre;
         public  string Nombre{
-            get{return "Copia" + nombre;}
-            set{nombre = value;}
+            get{return "Copia" + Nombre;}
+            set{Nombre = value;}
         }
             //forma 2
-        public int anoCreacion{get;set;}
-        public int Pais{get;set;}
+        public int AnoCreacion{get; set;}
+        public string Pais{get; set;}
 
         //prop atajo para crear una propiedad
-        public int Ciudad{get;set;}
+        public string Ciudad{get;set;}
 
-        public int MyVar { get; set; }
+        //forma 1 de escribir constructores
+        public Escuela (string nombre, int ano){
+            this.Nombre = nombre;
+            this.AnoCreacion = ano;
+        }
+
+        //forma 2 de escribir constructores
+        public Escuela(string nombre, int ano, string pais) => (Nombre, AnoCreacion, Pais) = (nombre, ano, pais);
+
 
     }
 }
