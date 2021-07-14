@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace CoreEscuela.Entidades{
 
-    class Escuela
+    public class Escuela
     {
         //Formas de crear variables y de encapsular
             //forma 1
